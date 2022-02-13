@@ -1,0 +1,15 @@
+table{
+    width: fit-content;
+    border: 3px solid;
+}
+th{
+    height: 100%;
+    width: 100%;
+    font-family: Poppins, sans-serif;
+    border: 2px solid;
+    font-weight: 600;
+}
+td{
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+}

@@ -1,0 +1,17 @@
+.centered{
+    text-align: center;
+}
+.italic{
+    font-style: italic
+}
+.italic-bold{
+    font-weight: 600;
+    font-style: italic
+}
+.bold{
+    font-weight: 600;
+}
+.img-left{
+    position: relative;
+    left: 30px;
+}
